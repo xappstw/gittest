@@ -8,14 +8,8 @@ please reference there
 
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ 
 
-
 #add the local git to remote git. 
 
 git remote add origin https://github.com/xappstw/gittest.git
-git push -u origin master
-
-
-
-only for test.
-
+git push -u origin master.
 
